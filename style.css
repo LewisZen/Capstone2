@@ -1,0 +1,89 @@
+.first-page{
+    background-image: url('image/First-page-bg.png');
+    display: flex;
+    height: 768px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+.charm-regular {
+    font-family: "Charm", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: green;
+  }
+  
+.charm-bold {
+    font-family: "Charm", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+}
+.press-start-2p-regular {
+    font-family: "Press Start 2P", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+  }
+.Stitch{
+    position: relative;
+    top:80px;
+}
+.Personal_image{
+    border-radius: 50%;
+}
+
+.roboto-flex-uniquifier {
+    font-family: "Roboto Flex", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0,
+      "wdth" 100,
+      "GRAD" 0,
+      "XOPQ" 96,
+      "XTRA" 468,
+      "YOPQ" 79,
+      "YTAS" 750,
+      "YTDE" -203,
+      "YTFI" 738,
+      "YTLC" 514,
+      "YTUC" 712;
+  }
+ul{
+    text-align: left;
+}
+#Page-2{
+    background-color: rgb(241, 238, 238);
+}
+
+#Page-3{
+    background-color: rgb(241, 238, 238);
+}
+#Page-4{
+    background-color: rgb(241, 238, 238);
+}
+#Page-5{
+    background-color: rgb(213, 226, 232);
+}
+
+.rye-regular {
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+.icon-link{
+    font-size: larger;
+}
+.block{
+    display: flex;
+    justify-content: center;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
